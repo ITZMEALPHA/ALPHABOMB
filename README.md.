@@ -9,7 +9,7 @@ by using Bash Script
 
 Developer will not be liable and will not become
 responsible for any misuse or damage caused by
-Tsunami. Please do not use this script for taking
+ALPHABOMB. Please do not use this script for taking
 revenge on somebody, it's made only for fair usage
 
 #Features
@@ -27,19 +27,19 @@ system before performing the following steps.
 
 First of all clone the repository and change the directory
 to the cloned repo. Provide proper execution permissions.
-Finally run the Tsunami.sh file in your Linux Terminal.
+Finally run the alphabomber.py file in your Linux Terminal.
 
 apt install python3 curl git -y
 git clone https://github.com/ITZMEALPHA/ALPHABOMB
 cd ALPHABOMB
-chmod +x ALPHABOMB.sh
-./ALPHABOMB.sh
+chmod +x alphabomber.py
+python2 alphabomber.py
 
 #
 #Next the script will ask you to enter the Victim's Phone No.
 and the number of SMS you want to send respectively.
 For Example:
 
-./ALPHABOMB.sh
+python2 alphabomber.py
 Enter the Victim's Phone No.: +91 "ENTER_10_DIGIT_NUMBER_HERE"
 Now enter the SMS count: "ENTER_THE_NUMBER_OF_SMS_TO_SEND"
