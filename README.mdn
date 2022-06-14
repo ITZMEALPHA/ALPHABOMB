@@ -30,7 +30,7 @@ to the cloned repo. Provide proper execution permissions.
 Finally run the Tsunami.sh file in your Linux Terminal.
 
 apt install python3 curl git -y
-git clone https://github.com/ITZMEALPHA/
+git clone https://github.com/ITZMEALPHA/ALPHABOMB
 cd ALPHABOMB
 chmod +x ALPHABOMB.sh
 ./ALPHABOMB.sh
