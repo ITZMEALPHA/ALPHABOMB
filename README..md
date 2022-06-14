@@ -30,16 +30,16 @@ to the cloned repo. Provide proper execution permissions.
 Finally run the Tsunami.sh file in your Linux Terminal.
 
 apt install python3 curl git -y
-git clone https://github.com/utsanjan/Tsunami-Bomber
-cd Tsunami-Bomber
-chmod +x Tsunami.sh
-./Tsunami.sh
+git clone https://github.com/ITZMEALPHA/
+cd ALPHABOMB
+chmod +x ALPHABOMB.sh
+./ALPHABOMB.sh
 
 #
 #Next the script will ask you to enter the Victim's Phone No.
 and the number of SMS you want to send respectively.
 For Example:
 
-./Tsunami.sh
+./ALPHABOMB.sh
 Enter the Victim's Phone No.: +91 "ENTER_10_DIGIT_NUMBER_HERE"
 Now enter the SMS count: "ENTER_THE_NUMBER_OF_SMS_TO_SEND"
