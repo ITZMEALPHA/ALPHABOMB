@@ -30,10 +30,7 @@ to the cloned repo. Provide proper execution permissions.
 Finally run the alphabomber.py file in your Linux Terminal.
 
 apt install python3 curl git -y
-git clone https://github.com/ITZMEALPHA/ALPHABOMB
-cd ALPHABOMB
-chmod +x alphabomber.py
-python2 alphabomber.py
+git clone https://github.com/ITZMEALPHA/ALPHABOMB && cd ALPHABOMB && python alphabomber.py
 
 #
 #Next the script will ask you to enter the Victim's Phone No.
